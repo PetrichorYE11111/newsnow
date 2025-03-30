@@ -4,5 +4,5 @@ compatibility_date = "2025-03-30"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
-database_name = "fdrf"
-database_id = "0f991f74-1573-4dce-a2a7-93bfcfae1780"
+database_name = "newsnow_db"
+database_id = "0c827d03-b1c0-4677-abe1-57775588ff3d"
